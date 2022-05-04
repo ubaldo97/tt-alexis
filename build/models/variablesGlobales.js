@@ -6,4 +6,4 @@ class VariablesGlobales {
     }
 }
 exports.VariablesGlobales = VariablesGlobales;
-VariablesGlobales.dominio = 'http://localhost:4200';
+VariablesGlobales.dominio = 'http://148.204.142.20/tt-alexis:4200';
